@@ -1,0 +1,23 @@
+Libellé,type ,taille,descriptif
+FR_ID,int,10,identifiant des fournisseurs de la serre
+FR_nom,varchar,50,nom du fournisseur
+FR_numéro_siret,int,15,numéro de siret
+FR_adresse,varchar,250,adresse fournisseur
+FR_ville,varchar,50,ville du fournisseur
+FR_tel,int,10,tel du fournisseur
+FR_mail,varchar,250,mail fournisseur
+PR_ID,int,10,identifiant produits
+PR_nom,varchar,50,nom du produit
+PR_quantité,int,10,quantité produit
+CM_ID,int,10,identifiant de commande
+CM_numéro_de_commande,int,10,numéro de commande
+CM_date_de_commande,date,jj/mm/aaaa,date de la commande
+CM_date_de_livraison,date ,jj/mm/aaaa,date de livraison
+PU_ID,int,5,identifiant du payson urbain
+PU_nom,varchar,50,nom du paysan urbain
+PU_adresse,varchar,250,adresse paysan urbain
+PU_ville ,varchar,50,villle du paysan urbain
+PU_tel,int,10,tel du paysan urbain
+PU_mail,varchar,50,mail du paysan urbain
+PU_prix_unitaire,float,10,prix unitaire des produits
+PU_prix_commande,float,10,prix total de la commande
