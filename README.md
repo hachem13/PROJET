@@ -2,20 +2,20 @@
 
 premier projet voici ce qui en suit 
 
-    - paysan urbain
+    * paysan urbain
         
-        - dictionnaire des données 
+        * dictionnaire des données 
 
-        - MCD 
+        * MCD 
 
-        - paysan_urbain.sql
+        * paysan_urbain.sql
 
-        - PAYSAN_URBAIN.mwb
+        * PAYSAN_URBAIN.mwb
 
-    - serre 
+    * serre 
 
-        - dictionnaire des données
+        * dictionnaire des données
 
-        - serre.mwb
+        * serre.mwb
 
-        - serre.sql
+        * serre.sql
